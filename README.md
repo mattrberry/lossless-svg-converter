@@ -7,4 +7,4 @@
 + jpg
 
 ### Examples: 
-Original: ![github-jpg](examples/github.jpg) SVG-ified ![github-svg](examples/github.svg)
+Original: ![github-jpg](https://raw.githubusercontent.com/mattrberry/lossless-png-to-svg/master/examples/github.jpg) SVG-ified ![github-svg](https://raw.githubusercontent.com/mattrberry/lossless-png-to-svg/master/examples/github.svg)
