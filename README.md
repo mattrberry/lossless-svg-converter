@@ -7,4 +7,4 @@
 + jpg
 
 ### Examples: 
-Original: ![ask-jpg](raw.https://github.com/mattrberry/lossless-png-to-jpg/master/examples/Ask.jpg) SVG-ified ![ask-svg](https://raw.github.com/mattrberry/lossless-png-to-svg/master/examples/Ask.svg)
+Original: ![ask-jpg](examples/Ask.jpg) SVG-ified ![ask-svg](examples/Ask.svg)
