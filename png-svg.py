@@ -9,7 +9,7 @@ for png in sys.argv[1:]:
     width, height = image.size
     pixels = image.load()
 
-    output = "<svg width=\"%d\" height=\"%d\" viewBox=\"0 0 %d %d\" xmlns=\"http://w3.org/2000/svg\">" % (width, height, width, height)
+    output = "<svg width=\"%d\" height=\"%d\" viewBox=\"0 0 %d %d\" xmlns=\"http://www.w3.org/2000/svg\">" % (width, height, width, height)
 
     for r in range(height):
         for c in range(width):
