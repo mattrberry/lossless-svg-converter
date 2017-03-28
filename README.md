@@ -7,4 +7,4 @@
 + jpg
 
 ### Examples: 
-Original: ![ask-jpg](examples/Ask.jpg) SVG-ified ![ask-svg](examples/Ask.svg)
+Original: ![github-jpg](examples/github.jpg) SVG-ified ![github-svg](examples/github.svg)
