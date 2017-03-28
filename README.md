@@ -1,4 +1,4 @@
-# Lossless PNG to SVG Converter
+# The First Truly Lossless JPG to SVG Converter!
 
 ### Requirements: 
 + Pillow
